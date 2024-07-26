@@ -1,5 +1,5 @@
 Użytkownik matematyknauka: Na Google Colab podłącz Dysk Google kliknięciem.
-Google Colab: Środowisko wykonawcze T4 GPU. Zalogować się tokenem do Github. Sklonować to repozytorium, %cd ścieżka do repozytorium w Google Colab na Dysku Google np. %cd /content/drive/MyDrive/ESRGAN_film_sd_do_hd, zainstalować pakiety !pip install moviepy opencv-python torch torchvision numpy, uruchomić !python test.py
+Google Colab: Środowisko wykonawcze T4 GPU. Zalogować się tokenem do Github jeśli repozytorium jest prywatne i tego nie zrobiłeś. Przejść do katalogu %cd ścieżka do repozytorium w Google Colab na Dysku Google np. %cd /content/drive/MyDrive/ESRGAN_film_sd_do_hd, sklonować to repozytorium, zainstalować pakiety !pip install moviepy opencv-python torch torchvision numpy, uruchomić !python test.py
 Pozdrawiam matematyknauka
 
 

@@ -1,5 +1,5 @@
 Kamil
-Google Colab: Środowisko wykonawcze T4 GPU. Sklonować to repozytorium, %cd ścieżka do repozytorium w Google Colab na Dysku Google np. %cd /content/drive/MyDrive/ESRGAN_sd_do_hd, zainstalować pakiety !pip install moviepy opencv-python torch torchvision numpy, !python test.py
+Google Colab: Środowisko wykonawcze T4 GPU. Sklonować to repozytorium, %cd ścieżka do repozytorium w Google Colab na Dysku Google np. %cd /content/drive/MyDrive/ESRGAN_film_sd_do_hd, zainstalować pakiety !pip install moviepy opencv-python torch torchvision numpy, !python test.py
 Kamil
 
 

@@ -1,3 +1,8 @@
+Kamil
+Google Colab: Środowisko wykonawcze T4 GPU. Sklonować to repozytorium, %cd ścieżka do repozytorium w Google Colab na Dysku Google np. %cd /content/drive/MyDrive/ESRGAN_sd_do_hd, zainstalować pakiety !pip install moviepy opencv-python torch torchvision numpy, !python test.py
+Kamil
+
+
 ## ESRGAN (Enhanced SRGAN) [:rocket: [BasicSR](https://github.com/xinntao/BasicSR)] [[Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)]
 
 :sparkles: **New Updates.**
